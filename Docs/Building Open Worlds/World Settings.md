@@ -1,0 +1,15 @@
+- World Settings
+    - Runtime Hash Class: WorldPartitionRuntimeSpatialHash
+    - Grid Settings
+        - Grid Name: MainGrid
+        - Cell Size: 12800
+        - Loading Range: 12800
+    - HLOD0
+        - Layer Type: Instancing
+        - Is Spatially Loaded: True
+        - Cell Size: 25600
+        - Loading Range: 76800
+    - HLOD1 (Parent)
+        - Layer Type: Approximated Mesh
+        - Is Spatially Loaded: False
+

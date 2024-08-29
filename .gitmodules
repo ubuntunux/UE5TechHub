@@ -1,0 +1,3 @@
+[submodule "Content/OpenPCG"]
+	path = Content/OpenPCG
+	url = https://github.com/ubuntunux/OpenPCG
